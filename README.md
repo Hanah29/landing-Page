@@ -6,4 +6,4 @@ Modern one-page website with:
 - Mobile-friendly layout
 
 **Tech**: HTML, CSS, JavaScript
-[Live Demo]:https://hanah29.github.io/PRODIGY_WD_01/
+
